@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "tesTour",
+  "steps": [
+    {
+      "file": "src/App.java",
+      "description": "test",
+      "line": 20
+    }
+  ]
+}
